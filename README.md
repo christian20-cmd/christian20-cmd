@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis christian20-cmd
+# 👋 Bonjour, je suis Christian Nomenjanahary
 
 **Développeur Full-Stack Passionné**  
 Créateur de solutions web innovantes qui allient performance technique et expérience utilisateur optimale.
@@ -76,7 +76,7 @@ Développement web — création de plateformes et applications robustes, perfor
 ## 📫 Contact
 
 - **Email** : christiannomenjanahary4@gmail.com
-- **Facebook** : [christian20-cmd](https://www.facebook.com/profile.php?id=61552157903272)
+- **Facebook** : [christian Nomenjanahary](https://www.facebook.com/profile.php?id=61552157903272)
 
 ---
 
